@@ -1,6 +1,6 @@
 # -pricing_prediction_cars
 
-It was developed two different models for the prediction of price cars from Poland.
+It was developed two different models for the prediction \nof price cars from Poland.
 
 The dataset is available from Kaggle: https://www.kaggle.com/datasets/aleksandrglotov/car-prices-poland
 
